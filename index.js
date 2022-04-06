@@ -8,8 +8,7 @@ function getInputValue() {
     document.getElementById("output1").textContent = inputVal2
 
 
-    // let inputVal3 = document.getElementById("inv-message").value;
-    // document.getElementById("output3").textContent = inputVal3
+    
     let inputVal4 = document.getElementById("dnt").value;
     document.getElementById("output2").textContent = inputVal4
     let inputVal5 = document.getElementById("location").value;

@@ -1,5 +1,4 @@
 html {
-  /* background-image: url("https://digitaltouchsystems.com/wp-content/uploads/2014/02/Blue-Gradient-Blur-Background-For-Free.jpg"); */
   background-color: #f38275;
   opacity: 4;
   background-repeat: no-repeat;
@@ -73,11 +72,11 @@ body {
   bottom: 55em;
   padding-bottom: 10em;
   top: 2em;
-  /* margin-top: 5em; */
+
   grid-template-columns: 1190px;
   grid-template-rows: 100px;
   grid-template-areas: "tittle tittle ";
-  /* background-color: transparent; */
+
   border-top: lightcoral;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -142,7 +141,7 @@ h2 {
   top: 6em;
   grid-area: template-box;
   display: grid;
-  /* background-color: thistle; */
+
   background-image: url("https://videohive.img.customer.envatousercontent.com/files/0cbdea29-f109-44ae-98d2-430b2ebe53fd/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=eafd85290586937ace3cc0fd2a032a68");
   background-repeat: repeat-y;
   color: rgba(0, 0, 0, 0.5);
@@ -166,7 +165,7 @@ h2 {
 }
 #invite-template {
   position: relative;
-  /* left: 0.5em; */
+
   bottom: 2.5em;
   padding: 10px;
   height: 728px;
@@ -260,7 +259,6 @@ input:focus::placeholder {
   grid-template-areas: "box1 template-box";
   max-height: 1000px;
   background-color: transparent;
-  /* border-style: ridge; */
 }
 p {
   color: black;
